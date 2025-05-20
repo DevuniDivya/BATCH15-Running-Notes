@@ -567,8 +567,8 @@ print("Difference:", difference_set)
 DICTIONARIES :
 
 my_dict = {
-    "name": "Madhu",
-    "phone": "7396627149", 
+    "name": "Divya",
+    "phone": "8790604563", 
     "city": "Hyderabad"
    }
 
